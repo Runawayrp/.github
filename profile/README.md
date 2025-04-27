@@ -2,6 +2,6 @@
     <img width="auto" src="#" />
 </div>
 
-## Crypto Wrld
+## Runaway Roleplay
 * #### [Our Discord](https://discord.gg/gRUW8XEcnG)
 * #### [Our Website](https://runawayrp.org/)
