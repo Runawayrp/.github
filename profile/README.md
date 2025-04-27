@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="auto" src="#" />
+    <img width="auto" src="https://i.imgur.com/prk7Eeb.png" />
 </div>
 
 ## Runaway Roleplay
